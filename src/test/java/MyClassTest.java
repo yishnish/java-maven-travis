@@ -7,6 +7,6 @@ public class MyClassTest {
 
     @Test
     public void testMe() {
-        assertThat(MyClass.getGreeting(), equalTo("Hello, world!"));
+        assertThat((new MyClass()).getGreeting(), equalTo("Hello, world!"));
     }
 }

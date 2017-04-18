@@ -12,6 +12,8 @@
 * changes the remote origin path in .git/config to point at the new repo
 * changes the folder name for your local repo
   * so you should `cd` to your project directory after running the script (you're already there but it looks like you aren't)
-6. Probably delete this file after that
+6. Probably delete rename.sh after that
+7. Edit this file to remove all these steps
+8. Eat more vegetables
 
 
